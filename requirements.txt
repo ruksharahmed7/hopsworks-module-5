@@ -24,4 +24,4 @@ numpy == 1.23.5
 pandas == 1.5.3
 
 # hopsworks-module-5/test_sml/test_sml.py: 3
-pytest == 7.1.2
+#pytest == 7.1.2
